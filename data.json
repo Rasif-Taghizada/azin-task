@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "7cd6",
+      "firstName": "Ferrux",
+      "lastName": "Hesenov",
+      "age": "20",
+      "email": "ferruxhesenov@gmail.com"
+    },
+    {
+      "id": "d664",
+      "firstName": "Elnur",
+      "lastName": "Hacibeyli",
+      "age": "21",
+      "email": "elnurhacibeyli@gmail.com"
+    },
+    {
+      "id": "be4c",
+      "firstName": "Tural",
+      "lastName": "Kerimov",
+      "age": "22",
+      "email": "trlkerimov@gmail.com"
+    },
+    {
+      "id": "cf05",
+      "firstName": "Nuray",
+      "lastName": "Seferli",
+      "age": "20",
+      "email": "nurayseferlii@gmail.com"
+    },
+    {
+      "id": "57e5",
+      "firstName": "Emil",
+      "lastName": "Esedullayev",
+      "age": "20",
+      "email": "emilesedullayev@gmail.com"
+    },
+    {
+      "id": "0b5c",
+      "firstName": "Kenan",
+      "lastName": "Orucov",
+      "age": "20",
+      "email": "kenanorucov@gmail.com"
+    },
+    {
+      "id": "3b59",
+      "firstName": "Aysel",
+      "lastName": "Hushanova",
+      "age": "20",
+      "email": "aysel.hushanova@gmail.com"
+    },
+    {
+      "id": "3ad3",
+      "firstName": "Rasif",
+      "lastName": "Taghizade",
+      "age": "21",
+      "email": "rasiftaghizade@gmail.com"
+    },
+    {
+      "id": "63c3",
+      "firstName": "Leyla",
+      "lastName": "Esedova",
+      "age": "22",
+      "email": "leylaesedova@gmail.com"
+    },
+    {
+      "id": "90a5",
+      "firstName": "Agasi",
+      "lastName": "Xalilov",
+      "age": "21",
+      "email": "agasixalilov@gmail.com"
+    }
+  ]
+}
